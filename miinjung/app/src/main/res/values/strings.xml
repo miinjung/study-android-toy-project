@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Android_toy_architecture</string>
+    <string name="search">search</string>
+    <string name="data_none">검색되는 대상이 없습니다.</string>
+    <string name="description">Description</string>
+    <string name="language">Language</string>
+    <string name="stars"> stars</string>
+    <string name="no_language">No language specified</string>
+    <string name="star_emoticon">★ </string>
+    <string name="follower">follower : </string>
+    <string name="following">following : </string>
+    <string name="no_query">검색어를 입력하시오.</string>
+    <string name="disconnect_internet">인터넷 연결이 필요합니다.</string>
 </resources>
